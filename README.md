@@ -1,3 +1,3 @@
-Video list 
+Video list:
 
 content
